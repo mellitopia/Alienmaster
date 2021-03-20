@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my bachelor thesis
+- 🌱 I’m currently learning Shellscripting
 <!--
 **Alienmaster/Alienmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
