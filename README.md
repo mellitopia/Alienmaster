@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my bachelor thesis
-- 🌱 I’m currently learning Shellscripting, Unity and CI/CD
+- 🔭 I’m currently working on a private Arduino project
+- 🌱 I’m currently learining more about C++
 <!--
 **Alienmaster/Alienmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
