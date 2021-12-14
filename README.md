@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a private Arduino project
-- 🌱 I’m currently learining more about C++
+- 🔭 I’m currently working on a ASR project
+- ⚡ In my spare time iam working on a private Arduino project
+- 🌱 I’m currently learning more about C++
+- You got a intresting ASR project? Ping me!
 <!--
 **Alienmaster/Alienmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
