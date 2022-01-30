@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a ASR project
-- ⚡ In my spare time iam working on a private Arduino project
-- 🌱 I’m currently learning more about C++
+- ⚡ In my spare time i'am working on a private Arduino project (with LEDs!)
+- 🌱 I’m currently reviewing code to learn more about C
 - You got a intresting ASR project? Ping me!
+- 📫 How to reach me: github@crpykng.de
 <!--
 **Alienmaster/Alienmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
