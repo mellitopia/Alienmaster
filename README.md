@@ -4,9 +4,7 @@
 
 
 ## My projects
-- 🔭 I’m currently working on a ASR project ([subtitle2go](https://github.com/uhh-lt/subtitle2go))
 - ➡️ Check out my Python Wrapper for etherpad! It's called [PyEtherPad](https://github.com/Alienmaster/PyEtherpadLite) and can also be found on [PyPi](https://pypi.org/project/pyetherpadlite/)
-- In the next weeks im also working on an update for [bbb-live-subtitles](https://github.com/uhh-lt/bbb-live-subtitles) to support BigBlueButton 2.4
 - An Arduino project to control LEDs when the ISS is nearby
 
 ## Code review
