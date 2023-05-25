@@ -1,6 +1,6 @@
 ## Hi there 👋
 - My name is Robert
-- I'm computer science master student at [Universität Hamburg](https://www-uni-hamburg.de)
+- I'm a computer science master student at [Universität Hamburg](https://www-uni-hamburg.de)
 
 
 ## My projects
@@ -9,10 +9,10 @@
 
 ## Code review
 - 🌱 I’m currently reviewing code to learn more about C and Python
-- If you are also instrested in code review get in touch with us: [ThanatosisSerpentis](https://github.com/ThanatosisSerpentis) and [CasualCCodeReviewers](https://github.com/CasualCCodeReviewers)
+- If you are also interested in code review get in touch with us: [ThanatosisSerpentis](https://github.com/ThanatosisSerpentis) and [CasualCCodeReviewers](https://github.com/CasualCCodeReviewers)
 
 ## Contact
-- 📣 You got a intresting ASR project? Ping me!
+- 📣 You got an intresting ASR project? Ping me!
 - 📫 How to reach me: github@crpykng.de
 <!--
 **Alienmaster/Alienmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
