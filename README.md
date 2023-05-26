@@ -12,7 +12,7 @@
 - If you are also interested in code review get in touch with us: [ThanatosisSerpentis](https://github.com/ThanatosisSerpentis) and [CasualCCodeReviewers](https://github.com/CasualCCodeReviewers)
 
 ## Contact
-- 📣 You got an intresting ASR project? Ping me!
+- 📣 You got an interesting ASR project? Ping me!
 - 📫 How to reach me: github@crpykng.de
 <!--
 **Alienmaster/Alienmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
